@@ -1,4 +1,4 @@
-name: Medication codelist request
+name: Medication codelist template
 description: Use to record medication codelists
 title: '*MEDICATION*: [TITLE]'
 labels: ["medication", "codelist"]
