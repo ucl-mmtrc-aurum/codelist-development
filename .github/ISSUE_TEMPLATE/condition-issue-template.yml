@@ -1,4 +1,4 @@
-name: Clinical codelist request
+name: Clinical codelist template
 description: Use to record condition/procedure/test codelists
 title: '[Delete as appropriate] *CONDITION*/*PROCEDURE*/*TEST*/*OTHER*: [TITLE]'
 labels: ["codelist"]
