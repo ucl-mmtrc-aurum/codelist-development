@@ -36,6 +36,7 @@ body:
         - dm+d
         - SNOMED CT
         - ICD-10
+        - CPRD Aurum product codes
         - Other (please detail in user requirements)
         - I'm not sure (please detail intended use in user requirements)
     validations:
